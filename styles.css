@@ -36,3 +36,8 @@ header {
 #item2 {
   text-align: right;
 }
+
+ol > li {
+  padding: 10px;
+  background-color: grey;
+}
