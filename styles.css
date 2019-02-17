@@ -11,3 +11,7 @@ h1, h2 {
 header {
   border-bottom: medium dashed blue;
 }
+
+.class-list {
+  list-style-type: square;
+}
