@@ -49,3 +49,11 @@ ol > li:nth-child(odd) {
 a[title]:hover {
   text-decoration: none;
 }
+
+li > a:hover {
+  background-color: yellow;
+}
+
+#advanced-selectors ol ul li a:active {
+  background-color: red;
+}
